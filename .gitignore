@@ -1,0 +1,12 @@
+go-service-cf-tokyo-meetup
+.DS_Store
+service-test
+.project
+*.swp
+.#*
+\#*
+my.db
+start-firehose.sh
+dist
+*pprof
+route-service-cf

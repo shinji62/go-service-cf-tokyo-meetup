@@ -1,0 +1,44 @@
+{
+	"ImportPath": "github.com/shinji62/go-service-cf-tokyo-meetup",
+	"GoVersion": "go1.5.2",
+	"Deps": [
+		{
+			"ImportPath": "github.com/CrowdSurge/banner",
+			"Rev": "8c0e79dc5ff70fb2919f0d662f44fd72ccdf9be2"
+		},
+		{
+			"ImportPath": "github.com/Pivotal-Japan/route-service-cf/headers",
+			"Rev": "0ff3608dd0a7896777cb7f91266353cd3041baf2"
+		},
+		{
+			"ImportPath": "github.com/Sirupsen/logrus",
+			"Comment": "v0.8.7-53-g446d1c1",
+			"Rev": "446d1c146faa8ed3f4218f056fcd165f6bcfda81"
+		},
+		{
+			"ImportPath": "github.com/alecthomas/template",
+			"Rev": "14fd436dd20c3cc65242a9f396b61bfc8a3926fc"
+		},
+		{
+			"ImportPath": "github.com/alecthomas/units",
+			"Rev": "2efee857e7cfd4f3d0138cc3cbb1b4966962b93a"
+		},
+		{
+			"ImportPath": "github.com/shinji62/route-service-cf/headers",
+			"Rev": "c6e68d13578348c0d8103957ec142c9283d2e6ef"
+		},
+		{
+			"ImportPath": "github.com/shinji62/route-service-cf/proxy",
+			"Rev": "c6e68d13578348c0d8103957ec142c9283d2e6ef"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/unix",
+			"Rev": "9d4e42a20653790449273b3c85e67d6d8bae6e2e"
+		},
+		{
+			"ImportPath": "gopkg.in/alecthomas/kingpin.v2",
+			"Comment": "v2.1.8",
+			"Rev": "8852570bd3865e9c4d4cb7cf5001c4295b07cad5"
+		}
+	]
+}

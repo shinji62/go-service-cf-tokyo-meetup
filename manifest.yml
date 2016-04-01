@@ -1,0 +1,9 @@
+applications:
+- buildpack: go_buildpack
+  disk_quota: 1024M
+  domain: local.pcfdev.io
+  host: route-service
+  instances: 1
+  memory: 128M
+  name: route-service
+  stack: cflinuxfs2
